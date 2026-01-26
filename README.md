@@ -1,6 +1,6 @@
 # 🌹 Political Data Research: Social Justice Initiative Support Index
 
-This project was developed as a portfolio piece for a Data Analyst role. The goal was to take complex survey data, clean it rigorously, and produce a concise strategic memo for political decision-makers. The analysis is contained entirely within the accompanying Jupyter Notebook: **`The Blue Research Group.ipynb`**.
+This project was developed as a portfolio piece for a Data Analyst role. The goal was to take complex survey data, clean it rigorously, and produce a concise strategic memo for political decision-makers. The analysis is contained entirely within the accompanying Jupyter Notebook: **`Social Justice.ipynb`**.
 
 ---
 
